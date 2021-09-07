@@ -31,5 +31,5 @@ def updateInfo():
         json.dump(infoList, fObj)
         fObj.close()
 
-
+"ИЗМЕНЕНИЯ"
 updateInfo()
