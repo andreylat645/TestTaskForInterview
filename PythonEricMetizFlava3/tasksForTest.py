@@ -1,7 +1,6 @@
 import json
 import requests
 
-
 def updateInfo():
 
     fileName = "COMPANY.json"
